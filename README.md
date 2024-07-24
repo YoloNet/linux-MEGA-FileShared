@@ -2,7 +2,8 @@
 
 This repository provides a step-by-step guide to using MEGA for file sharing on a Linux server. Follow these instructions to install the MEGA command-line tool (`megacmd`), configure your account, and upload files to your MEGA cloud storage.
 
-![MEGA Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/MEGA_logo.png)
+![MEGA Logo](![image](https://github.com/user-attachments/assets/37017493-9ee2-49cb-8515-5770f7acad90)
+)
 
 ## 📋 Prerequisites
 
